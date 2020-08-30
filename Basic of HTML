@@ -1,0 +1,8 @@
+<a href="http://James.com">Hello, Learn more about James</a>
+<p>
+<a href="mailto:Lanhamj3@icloud.com">This is an email link</a>
+<p>
+<a href="tel:609-214-4794">This is a phone number link</a>
+<p>
+<p id="facts">Useful Tips Section</p>
+<a href="#tips">Jump to Useful Tips Section</a>
